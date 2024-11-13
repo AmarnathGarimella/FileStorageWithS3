@@ -11,4 +11,5 @@ Please set the aws access key, secret key, region and s3 bucket name in `applica
 3. upload any file into S3 into the user folder
 
 **Assumptions**
+---
 Only one S3 bucket is created and sub folder is created for different user.
